@@ -39,3 +39,17 @@ Moved: unknown.xyz → Others/
 Total files moved: 4
 
 ```
+# 📢 Install as a CLI Tool 
+```
+pip install .
+
+```
+
+## Run
+```
+organize-folder /path/to/your/folder
+```
+## To uninstall the CLI tool
+```
+pip uninstall file-organizer
+```
