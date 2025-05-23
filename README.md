@@ -16,7 +16,6 @@ A simple Python script to automatically organize files in a folder based on thei
 ## 📦 Requirements
 
 - Python 3.6+
-- `python-dotenv`
 
 ## Setup 
 ```
